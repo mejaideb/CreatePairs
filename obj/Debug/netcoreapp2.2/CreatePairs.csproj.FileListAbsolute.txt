@@ -1,0 +1,11 @@
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.2\CreatePairs.deps.json
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.2\CreatePairs.runtimeconfig.json
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.2\CreatePairs.runtimeconfig.dev.json
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.2\CreatePairs.dll
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\bin\Debug\netcoreapp2.2\CreatePairs.pdb
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.csprojAssemblyReference.cache
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.csproj.CoreCompileInputs.cache
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.AssemblyInfoInputs.cache
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.AssemblyInfo.cs
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.dll
+C:\Users\jmandal\Desktop\code jam\CodeJamPractice\CreatePairs\CreatePairs\CreatePairs\obj\Debug\netcoreapp2.2\CreatePairs.pdb
